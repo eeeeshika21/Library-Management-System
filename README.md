@@ -25,7 +25,7 @@ librarymanagement ├── src │ ├── main │ │ ├── java │ �
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/eeeeshika21/Library-Management-System.git
    cd library-management-system
 Open the project in Visual Studio Code.
 
