@@ -37,3 +37,14 @@ Use the built-in Spring Boot features to run the application directly from the I
 
 The REST API will be available at http://localhost:8080/.
 The home page can be accessed at http://localhost:8080/index.html.
+
+##Screenshots:
+![image](https://github.com/user-attachments/assets/cb6c0672-83ab-4241-ba60-2454115fa869)
+![image](https://github.com/user-attachments/assets/9b132942-ceec-4e0d-8eca-339bd862a574)
+![image](https://github.com/user-attachments/assets/ec84cf56-8ef7-4bf7-8a71-5f6530607156)
+![image](https://github.com/user-attachments/assets/2425dcbe-2c1e-4ce1-98bd-726eac08945a)
+
+
+
+
+
